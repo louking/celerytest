@@ -1,6 +1,6 @@
 from __future__ import absolute_import
 
-from celerytest.celerytest import app
+from proj.celerytest import app
 
 
 @app.task
