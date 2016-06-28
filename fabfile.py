@@ -12,7 +12,7 @@ fabfile  -- deployment using Fabric
 from fabric.api import env, run, cd
 
 USERNAME = 'scoretility'
-APP_NAME = 'celerytest'
+APP_NAME = 'proj'
 WSGI_SCRIPT = 'celerytest.wsgi'
 
 server = 'celerytest.scoretility.com'
