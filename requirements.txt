@@ -11,6 +11,8 @@ click==6.6
 ecdsa==0.13
 itsdangerous==0.24
 kombu==3.0.35
+loutilities==0.10.6
 paramiko==1.17.0
 pycrypto==2.6.1
 pytz==2016.4
+unicodecsv==0.14.1
